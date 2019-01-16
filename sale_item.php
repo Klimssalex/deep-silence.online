@@ -1,6 +1,7 @@
 <?php
 
 require_once dirname(__FILE__) . '/headers.php';
+require_once dirname(__FILE__) . '/workClass.php';
 require_once dirname(__FILE__) . '/check_auth.php';
 require_once dirname(__FILE__) . '/config/config.php';
 
